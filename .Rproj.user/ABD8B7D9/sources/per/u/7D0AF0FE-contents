@@ -1,0 +1,16 @@
+---
+title: "LAEF_CLASE_3"
+author: "Luis Barrios"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+```{r}
+
+```
+
